@@ -1,0 +1,56 @@
+.table-default {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.table-default td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+}
+
+.table-default th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+}
+
+.table-default .tg-s0wq {
+    background-color: #ffccc9;
+    color: #330001
+}
+
+.table-default .tg-xu9l {
+    background-color: #ffccc9;
+    color: #000000
+}
+
+.table-default .tg-gvwu {
+    background-color: #ffccc9;
+    color: #000000;
+    vertical-align: top
+}
+
+.table-default .tg-i6eq {
+    background-color: #ffccc9;
+    vertical-align: top
+}
+
+.table-default .tg-e3eb {
+    background-color: #ffccc9;
+    color: #330001;
+    vertical-align: top
+}
+
+.table-default .tg-yw4l {
+    vertical-align: top
+}
